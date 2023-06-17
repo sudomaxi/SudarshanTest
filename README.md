@@ -16,7 +16,7 @@ Security and authentication: Back-end developers implement security measures to 
 
 2.)What are the tags in HTML? Explain the each category of tags with an example. 
 
-<!-- 
+
 Here are the examples of HTML tags in theory without providing the code:
 Heading Tags:
 <h1>: Represents the main heading.
@@ -36,7 +36,6 @@ Table Tags:
 <tr>: Defines a table row.
 <th>: Represents a table header cell.
 <td>: Represents a table data cell.
--->
   
 3.)Explain the working procedure of virtual DOM.
 The Virtual DOM is a concept used in frameworks like React to improve performance by minimizing direct manipulation of the browser's Document Object Model 
