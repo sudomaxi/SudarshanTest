@@ -19,7 +19,7 @@ Here are the examples of HTML tags in theory without providing the code:
 
 Heading Tags:
 <h1>: Represents the main heading.
-<h2> to <h6>: Represents subheadings of decreasing importance.
+//<h2> to <h6>: Represents subheadings of decreasing importance.
 Paragraph Tags:
 <p>: Defines a paragraph of text.
 Anchor Tags:
