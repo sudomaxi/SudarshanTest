@@ -16,27 +16,31 @@ Security and authentication: Back-end developers implement security measures to 
 
 2.)What are the tags in HTML? Explain the each category of tags with an example. 
 
-
-Here are the examples of HTML tags in theory without providing the code:
 Heading Tags:
-<h1>: Represents the main heading.
-<h2> to <h6>: Represents subheadings of decreasing importance.
+
+'<h1>': Represents the main heading.
+'<h2>' to '<h6>': Represents subheadings of decreasing importance.
 Paragraph Tags:
-<p>: Defines a paragraph of text.
+
+'<p>': Defines a paragraph of text.
 Anchor Tags:
-<a>: Creates hyperlinks to other web pages or resources.
+
+'<a>': Creates hyperlinks to other web pages or resources.
 Image Tags:
-<img>: Inserts images into a web page.
+
+'<img>': Inserts images into a web page.
 List Tags:
-<ul>: Defines an unordered (bullet-point) list.
-<ol>: Defines an ordered (numbered) list.
-<li>: Represents a list item within <ul> or <ol>.
+
+'<ul>': Defines an unordered (bullet-point) list.
+'<ol>': Defines an ordered (numbered) list.
+'<li>': Represents a list item within <ul> or <ol>.
 Table Tags:
-<table>: Represents a table structure.
-<tr>: Defines a table row.
-<th>: Represents a table header cell.
-<td>: Represents a table data cell.
-  
+
+'<table>': Represents a table structure.
+'<tr>': Defines a table row.
+'<th>': Represents a table header cell.
+'<td>': Represents a table data cell.
+
 3.)Explain the working procedure of virtual DOM.
 The Virtual DOM is a concept used in frameworks like React to improve performance by minimizing direct manipulation of the browser's Document Object Model 
 (DOM). It involves creating a lightweight virtual representation of the DOM, comparing it to the previous version, and selectively updating only the 
