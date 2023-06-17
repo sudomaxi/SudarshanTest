@@ -15,31 +15,35 @@ APIs (Application Programming Interfaces): APIs allow different software systems
 Security and authentication: Back-end developers implement security measures to protect user data, prevent unauthorized access, and handle user authentication and authorization. This involves techniques such as encryption, secure connections (HTTPS), and user authentication systems like username/password or OAuth
 
 2.)What are the tags in HTML? Explain the each category of tags with an example. 
-
 Heading Tags:
 
-'<h1>': Represents the main heading.
-'<h2>' to '<h6>': Represents subheadings of decreasing importance.
+&lt;h1&gt;: Represents the main heading.
+&lt;h2&gt; to &lt;h6&gt;: Represents subheadings of decreasing importance.
+
 Paragraph Tags:
 
-'<p>': Defines a paragraph of text.
+&lt;p&gt;: Defines a paragraph of text.
+
 Anchor Tags:
 
-'<a>': Creates hyperlinks to other web pages or resources.
+&lt;a&gt;: Creates hyperlinks to other web pages or resources.
+
 Image Tags:
 
-'<img>': Inserts images into a web page.
+&lt;img&gt;: Inserts images into a web page.
+
 List Tags:
 
-'<ul>': Defines an unordered (bullet-point) list.
-'<ol>': Defines an ordered (numbered) list.
-'<li>': Represents a list item within <ul> or <ol>.
+&lt;ul&gt;: Defines an unordered (bullet-point) list.
+&lt;ol&gt;: Defines an ordered (numbered) list.
+&lt;li&gt;: Represents a list item within &lt;ul&gt; or &lt;ol&gt;.
+
 Table Tags:
 
-'<table>': Represents a table structure.
-'<tr>': Defines a table row.
-'<th>': Represents a table header cell.
-'<td>': Represents a table data cell.
+&lt;table&gt;: Represents a table structure.
+&lt;tr&gt;: Defines a table row.
+&lt;th&gt;: Represents a table header cell.
+&lt;td&gt;: Represents a table data cell.
 
 3.)Explain the working procedure of virtual DOM.
 The Virtual DOM is a concept used in frameworks like React to improve performance by minimizing direct manipulation of the browser's Document Object Model 
